@@ -3,7 +3,6 @@
 My personal WIKI how to set up a simple ios project. The idea is that I will add info about useful tools.
 
 ## CocoaPods
-------------
 
 [CocoaPods](https://cocoapods.org/app) manages library dependencies for your Xcode projects.
 	
@@ -32,7 +31,6 @@ My personal WIKI how to set up a simple ios project. The idea is that I will add
 
 	
 ## Project folder structure
-------------
 
 	ProjectName  
     |-Assets
